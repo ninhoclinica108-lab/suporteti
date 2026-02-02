@@ -1,0 +1,7 @@
+{
+  "name": "Next TI Service Desk",
+  "description": "A high-performance, professional Service Desk and ticketing system with Kanban, real-time chat, dashboards, and multi-tenant support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
